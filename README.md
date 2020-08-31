@@ -1,4 +1,4 @@
-### 🤘🏽
+### 🤘🏽 Hello Stranger!
 
 I'm a 32 years old Software Engineer from Ostermunich, Bavaria. My journey began when I was 14 years old. In a college in the middle of the
 mountains I decided to focus on building websites.
