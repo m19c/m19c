@@ -1,6 +1,6 @@
 ### 🤘🏽 Hello Stranger!
 
-I'm a 33 years old Software Engineer from Ostermunich, Bavaria. My journey began when I was 14 years old. In a college in the middle of the
+I'm a 34 years old Software Engineer from Ostermunich, Bavaria. My journey began when I was 14 years old. In a college in the middle of the
 mountains I decided to focus on building websites.
 The internet just turned 10 years old, almost nothing was available to kickstart a kid in programming. With a few printed sheets in my backpack I managed to
 kick things off.
